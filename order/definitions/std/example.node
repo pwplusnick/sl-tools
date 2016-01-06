@@ -1,6 +1,9 @@
 ---
 - name: FooBar
+  cpu: TechMan
+  hd: 1 TB
 
 - name: BarFoo
-
+  cpu: IBM
 - name: ExampleController
+  cpu: logitech
