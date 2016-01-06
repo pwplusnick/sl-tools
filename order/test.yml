@@ -1,0 +1,9 @@
+---
+- name: foo
+  chasis: blah
+  cpu: blah
+  os: blah
+- name: bar
+  chasis: wat
+  cpu: wat
+  os: wat

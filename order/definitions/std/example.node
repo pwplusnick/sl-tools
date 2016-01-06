@@ -1,0 +1,6 @@
+---
+- name: FooBar
+
+- name: BarFoo
+
+- name: ExampleController
